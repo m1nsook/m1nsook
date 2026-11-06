@@ -2,12 +2,13 @@
 
 # hey, i'm miso 👋
 
-**Developer tools · desktop apps · game modding**
+**Developer tools · documentation frameworks · desktop apps · game modding**
 
 I build local-first software with a soft spot for thoughtful interfaces.
 
 [![Repositories](https://img.shields.io/badge/Explore_my_projects-242938?style=flat-square&logo=github&logoColor=white)](https://github.com/m1nsook?tab=repositories)
-[![Paglora Docs](https://img.shields.io/badge/Paglora_documentation-7C88E8?style=flat-square&logo=readthedocs&logoColor=white)](https://m1nsook.github.io/paglora-docs/)
+[![BSIS](https://img.shields.io/badge/BSIS_documentation-242938?style=flat-square&logo=windows&logoColor=white)](https://github.com/m1nsook/BSIS.dev)
+[![NextGuide](https://img.shields.io/badge/NextGuide_documentation-7C88E8?style=flat-square&logo=nextdotjs&logoColor=white)](https://m1nsook.github.io/NextGuide/)
 
 </div>
 
@@ -15,11 +16,17 @@ I build local-first software with a soft spot for thoughtful interfaces.
 
 ### What I'm building
 
-**[Paglora](https://github.com/m1nsook/paglora)** — an open-source documentation studio that lets you write, design, and publish documentation locally, without a cloud account.
+**BSIS (Better NSIS)** — a Windows installer framework focused on making native installers easier to build, customize, and maintain.
 
-Built with **Tauri, Rust, React, and TypeScript**. It's in active development, with a visual Markdown editor, reusable documentation components, and static-site publishing.
+Built around **Rust** and a native Windows runtime, with an emphasis on straightforward packaging, predictable behavior, and a better developer experience. It's still in early development.
 
-[Source code](https://github.com/m1nsook/paglora) · [Documentation](https://m1nsook.github.io/paglora-docs/) · [Translations](https://github.com/m1nsook/paglora-lang)
+[Documentation](https://github.com/m1nsook/BSIS.dev)
+
+**[NextGuide](https://github.com/m1nsook/NextGuide)** — an all-in-one documentation framework for **Next.js**, with file-based MDX content, a built-in component library, and tooling that sets up documentation inside an existing project.
+
+Built with **TypeScript, React, Next.js, and Bun**. Developer Mode is available for local, file-first documentation; additional features are still in development.
+
+[Source code](https://github.com/m1nsook/NextGuide) · [Documentation](https://m1nsook.github.io/NextGuide/)
 
 ### My toolkit
 
